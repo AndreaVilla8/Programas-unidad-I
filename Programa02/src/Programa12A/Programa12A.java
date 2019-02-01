@@ -1,5 +1,7 @@
 package Programa12A;
 
+import java.util.Scanner;
+
 public class Programa12A {
 
 	public static void main(String[] args) {
